@@ -1,4 +1,4 @@
-# Computação clássica e quântica aplicada ao mercado financeiro
+# Computação clássica e quântica aplicadas ao mercado financeiro
 
 Os códigos são relacionados ao nosso artigo que pode ser encontrado no link abaixo.
 
