@@ -1,4 +1,4 @@
-# Jupyter Notebook sobre computação quântica aplicada ao mercado financeira em suporte ao artigo na RBEF
+# Jupyter Notebooks sobre computação quântica aplicada ao mercado financeira em suporte ao artigo na RBEF
 
 O repositório contém: 
 
