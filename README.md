@@ -1,4 +1,6 @@
-# Repositório com Jupyter Notebooks sobre computação clássica e quântica aplicada ao mercado financeira em suporte ao artigo na RBEF
+# Computação clássica e quântica aplicada ao mercado financeira em suporte ao artigo na RBEF
+
+
 
 O repositório encontra-se organizado da seguinte forma: 
 
