@@ -1,4 +1,6 @@
-# Computação clássica e quântica aplicada ao mercado financeira em suporte ao artigo na RBEF
+# Computação clássica e quântica aplicada ao mercado financeira
+
+Os códigos são relacionados ao nosso artigo que pode ser encontrado no link abaixo.
 
 <a href="https://www.dualq.tech/wp-content/uploads/2021/11/artigoDualQ_quantum_finance_RevBraEnsFis.pdf">LINK do artigo</a>
 
