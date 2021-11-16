@@ -12,7 +12,7 @@ O repositório encontra-se organizado da seguinte forma:
 
 Bem como uma abordagem quântica de uma implementação simples do QAOA (Quantum Approximate Optimization Algorithm) com o Qiskit (IBM Q), podendo ser usado para o mesmo grupo de ativos e testado diretamente no Google Colab.
 
-- <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/Quantum_Finance_DualQ.ipynb" target="_blank">Notebook 1 - Quantum_Finance_DualQ</a>
+- <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/Quantum_Finance_DualQ.ipynb" target="_blank">Notebook 1 - Implementação da abordagem clássica e uma pequena demonstração do QAOA com Qiskit</a>
 
 2- Um Jupyter notebook que explora a abordagem quântica com o QAOA usando o myQLM com os mesmos ingredientes anteriores, onde exploramos mais profundamente a qualidade da solução e a covergência do QAOA em função do número de camadas.
 
