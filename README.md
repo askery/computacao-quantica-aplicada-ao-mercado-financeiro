@@ -10,7 +10,7 @@ O repositório encontra-se organizado da seguinte forma:
 
 ![picture](https://www.dualq.tech/wp-content/uploads/fronteira_vf4.png)
 
-Bem como a abordagem quântica simples da implementação do QAOA (Quantum Approximate Optimization Algorithm) com o Qiskit (IBM Q), podendo ser usado para o mesmo grupo de ativos e testado diretamente no Google Colab.
+Bem como uma abordagem quântica de uma implementação simples do QAOA (Quantum Approximate Optimization Algorithm) com o Qiskit (IBM Q), podendo ser usado para o mesmo grupo de ativos e testado diretamente no Google Colab.
 
 - <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/Quantum_Finance_DualQ.ipynb" target="_blank">Notebook 1 - Quantum_Finance_DualQ</a>
 
