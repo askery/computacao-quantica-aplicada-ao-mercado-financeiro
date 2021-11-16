@@ -8,7 +8,7 @@ O repositório encontra-se organizado da seguinte forma:
 
 1- Um Jupyter notebook que explora a abordagem clássica (Markowitz) onde você poderá obter a Fronteira Eficiente para diversos ativos como: ações da B3, ações de empresas americanas (NYSE/NASDAQ), Criptomoedas etc; Conforme abaixo:
 
-![picture](https://www.dualq.tech/wp-content/uploads/fronteira_vf4.png)
+![picture](https://www.dualq.tech/wp-content/uploads/fronteira_vf4.png =100x100)
 
 Bem como uma abordagem quântica de uma implementação simples do QAOA (Quantum Approximate Optimization Algorithm) com o Qiskit (IBM Q), podendo ser usado para o mesmo grupo de ativos e testado diretamente no Google Colab.
 
