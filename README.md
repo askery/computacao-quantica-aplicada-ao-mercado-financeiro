@@ -12,4 +12,4 @@ O repositório encontra-se organizado da seguinte forma:
 
 2- Um Jupyter notebook que explora a abordagem quântica com o QAOA (Quantum Approximate Optimization Algorithm) com o myQLM com os mesmos ingredientes anteriores.
 
-<a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/Quantum_Finance_DualQ.ipynb" target="_blank">Notebook 2</a>
+<a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/QAOA_myQLM.ipynb" target="_blank">Notebook 2 - implementação do QAOA com o myQLM</a>
