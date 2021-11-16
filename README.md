@@ -14,7 +14,7 @@ Bem como uma abordagem quântica de uma implementação simples do QAOA (Quantum
 
 - <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/Quantum_Finance_DualQ.ipynb" target="_blank">Notebook 1 - Quantum_Finance_DualQ</a>
 
-2- Um Jupyter notebook que explora a abordagem quântica com o QAOA (Quantum Approximate Optimization Algorithm) com o myQLM com os mesmos ingredientes anteriores onde exploramos mais profundamente a qualidade da solução do QAOA.
+2- Um Jupyter notebook que explora a abordagem quântica com o QAOA usando o myQLM com os mesmos ingredientes anteriores, onde exploramos mais profundamente a qualidade da solução e a covergência do QAOA em função do número de camadas.
 
 - <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/QAOA_myQLM.ipynb" target="_blank">Notebook 2 - implementação do QAOA com o myQLM</a>
 
