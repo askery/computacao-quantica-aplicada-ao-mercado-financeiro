@@ -17,12 +17,12 @@ O repositório encontra-se organizado da seguinte forma:
 Para instalação do myQLM recomendamos seguir a própria documentação do software, disponível em: 
 <a href= "https://myqlm.github.io/myqlm_specific/install.html" target="_blank">Instalando o myQLM</a>
 
-Dica: dada a compatibilidade com Python 3.9 (Linux e Windows), primeiro nós criamos um ambiente com a referida versão (com o nome "myqlm") com o comando
+Dica: dada a compatibilidade com Python 3.9 (tanto no Linux como no Windows), primeiro nós criamos um ambiente com a referida versão (com o nome "myqlm") com o comando
 
 ```conda create -n myqlm python=3.9```
 
-Ativamos o ambiente com
+Ativamos o ambiente com o comando
 
-conda activate myqlm
+```conda activate myqlm```
 
 Então seguimos todos os passos de instalação da documentação do myQLM.
