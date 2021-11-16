@@ -19,7 +19,7 @@ Para instalação do myQLM recomendamos seguir a própria documentação do soft
 
 Dica: dada a compatibilidade com Python 3.9 (Linux e Windows), primeiro nós criamos um ambiente com a referida versão (com o nome "myqlm") com o comando
 
-conda create -n myqlm python=3.9
+```conda create -n myqlm python=3.9```
 
 Ativamos o ambiente com
 
