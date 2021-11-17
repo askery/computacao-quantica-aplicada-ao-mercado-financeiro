@@ -6,7 +6,7 @@ Os códigos são relacionados ao nosso artigo que pode ser encontrado no link ab
 
 O repositório encontra-se organizado da seguinte forma: 
 
-1- Um Jupyter notebook que explora a abordagem clássica (Markowitz) onde você poderá obter a Fronteira Eficiente para diversos ativos como: ações da B3, ações de empresas americanas (NYSE/NASDAQ), Criptomoedas etc; Conforme abaixo:
+1- Um Jupyter notebook que explora a abordagem clássica (Markowitz) onde você poderá obter a Fronteira Eficiente para diversos ativos como: ações da B3, ações de empresas americanas (NYSE/NASDAQ), Criptomoedas etc; Conforme figura abaixo:
 
 ![picture](https://www.dualq.tech/wp-content/uploads/fronteira_vf4.png)
 
