@@ -18,6 +18,8 @@ Bem como contém uma abordagem quântica de uma implementação simples do QAOA 
 
 - <a href= "https://github.com/askery/computacao-quantica-aplicada-ao-mercado-financeiro/blob/main/QAOA_myQLM.ipynb" target="_blank">Notebook 2 - implementação do QAOA com o myQLM</a>
 
+# Sobre o myQLM.
+
 Para instalação do myQLM recomendamos seguir a própria documentação do software, disponível em: 
 <a href= "https://myqlm.github.io/myqlm_specific/install.html" target="_blank">Instalando o myQLM</a>
 
