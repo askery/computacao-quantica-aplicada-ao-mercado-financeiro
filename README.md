@@ -1,12 +1,8 @@
 # Computação clássica e quântica aplicadas ao mercado financeiro
 
-Os códigos são relacionados ao nosso artigo que pode ser encontrado no link abaixo.
-
-- <a href="https://arxiv.org/abs/2208.04382" target="_blank">https://arxiv.org/abs/2208.04382
-</a>
+Os códigos são relacionados ao nosso artigo que pode ser encontrado no link:
 
 https://arxiv.org/abs/2208.04382
-
 
 O repositório encontra-se organizado da seguinte forma: 
 
