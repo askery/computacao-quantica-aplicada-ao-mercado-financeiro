@@ -2,7 +2,7 @@
 
 Os códigos são relacionados ao nosso artigo que pode ser encontrado no link:
 
-https://arxiv.org/abs/2208.04382
+https://doi.org/10.1590/1806-9126-RBEF-2022-0099
 
 O repositório encontra-se organizado da seguinte forma: 
 
